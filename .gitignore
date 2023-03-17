@@ -1,3 +1,5 @@
+# Created by Majid ....:
+
 # Created by https://www.toptal.com/developers/gitignore/api/java
 # Edit at https://www.toptal.com/developers/gitignore?templates=java
 
@@ -78,4 +80,5 @@ $RECYCLE.BIN/
 # .nfs files are created when an open file is removed but is still being accessed
 .nfs*
 
-# End of https://www.toptal.com/developers/gitignore/api/linu:
+# End of https://www.toptal.com/developers/gitignore/api/linu
+:
